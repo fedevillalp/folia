@@ -8,7 +8,7 @@ sections:
   label: Sidebar Content
 - type: document
   path: content/about/info.md
-  label: Info Page
+  label: Info Page es
 - type: directory
   path: content/blog-posts
   label: Blog posts
@@ -18,7 +18,7 @@ sections:
   - blog
 - type: document
   path: content/data/authors.yaml
-  label: Authors List
+  label: Authors Lists
 - type: heading
   label: Config
 - type: document
@@ -26,7 +26,7 @@ sections:
   label: Design Settings
 - type: document
   path: config.toml
-  label: Site Config
+  label: Site Configs
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
